@@ -7,6 +7,6 @@
   "music": false,
   "ignore": [],
   "mappings": {
-	 "deck_ui_typing.wav": ["deck_ui_typing.wav", "deck_ui_typing-2.wav", "deck_ui_typing-3.wav"]
+	 "deck_ui_typing.wav": ["deck_ui_typing-1.wav", "deck_ui_typing-2.wav", "deck_ui_typing-3.wav"]
   }
 }
